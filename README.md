@@ -25,3 +25,8 @@ Other elements of this page are also animated using gsap. To make the animations
 ### You can visit this website here:
 
 [CryptoBot Website](https://66842f65d7337baa7e349527--dreamy-heliotrope-6adfd4.netlify.app/)
+
+---
+
+![ezgif com-animated-gif-maker](https://github.com/krzysiekk9/cryptoBot/assets/107801980/40ef9a77-3443-4b42-a6e6-5be395d72736)
+
